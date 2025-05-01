@@ -1,8 +1,6 @@
 # Beat-Covid-Project
 
-This is the README file for the Beat Covid app 😷 🦠. It's a great place to write
-down some notes about how your app works. For starters, here is some information
-about the other files in this folder.
+This is the README file for the Beat Covid app 😷 🦠. This was a game project I led for the Girls Who Code club at Capistrano Valley High School. 
 
 The files in this folder contain everything you need to run your app:
 
